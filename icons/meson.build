@@ -1,5 +1,6 @@
 install_subdir('symbolic',
     install_dir: join_paths(get_option('prefix'), get_option('datadir'), 'icons/hicolor/scalable/actions/'),
+    strip_directory: true,
 )
 
 install_data('xsi-adwaita-symbolic.info', install_dir : get_option('datadir') / 'xapp')
