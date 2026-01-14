@@ -1,13 +1,105 @@
 Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
 Upstream-Name: xapp-symbolic-icons
-Upstream-Contact: https://www.linuxmint.com/teams.php
+Upstream-Contact: https://github.com/xapp-project/xapp-symbolic-icons
 Source: https://github.com/xapp-project/xapp-symbolic-icons
 
-Files: *
-Copyright: 2025, XApp project
-License: LGPL-3
- This program is free software; you can redistribute it and/or
- modify it under the terms of the GNU Lesser General Public License V3.
+
+Files:
+ icons/symbolic/xsi-applications-electronics-symbolic.svg
+Copyright:
+ © Ionicons contributors
+License: MIT
+Source: https://github.com/ionic-team/ionicons
+Comment: Icons may include modifications.
+
+
+Files:
+ icons/symbolic/xsi-applications-development-symbolic.svg
+ icons/symbolic/xsi-applications-internet-symbolic.svg
+ icons/symbolic/xsi-applications-office-symbolic.svg
+ icons/symbolic/xsi-applications-other-symbolic.svg
+ icons/symbolic/xsi-boot-menu-symbolic.svg
+ icons/symbolic/xsi-git-pr-symbolic.svg
+ icons/symbolic/xsi-git-symbolic.svg
+ icons/symbolic/xsi-github-symbolic.svg
+ icons/symbolic/xsi-group-symbolic.svg
+Copyright:
+ Unknown
+License: UNKNOWN
+Comment: Origin and licensing information not yet determined; under investigation. Added from SVGrepo.
+
+
+Files:
+ icons/symbolic/xsi-pci-card-symbolic.svg
+ icons/symbolic/xsi-applications-games-symbolic.svg
+ icons/symbolic/xsi-applications-education-symbolic.svg
+ icons/symbolic/xsi-user-favorites-symbolic.svg
+ icons/symbolic/xsi-folder-recent-symbolic.svg
+ icons/symbolic/xsi-applications-wine-symbolic.svg
+Copyright:
+ Unknown
+License: UNKNOWN
+Comment: Origin and licensing information not yet determined; under investigation. Added later. Wine looks free but with no license info.
+
+
+Files:
+ icons/symbolic/xsi-folder-warning-symbolic.svg
+ icons/symbolic/xsi-power-profile-balanced-symbolic.svg
+ icons/symbolic/xsi-power-profile-performance-symbolic.svg
+ icons/symbolic/xsi-power-profile-power-symbolic.svg
+ icons/symbolic/xsi-network-wireless-signal-weak-secure-symbolic.svg
+ icons/symbolic/xsi-network-wireless-signal-ok-secure-symbolic.svg
+ icons/symbolic/xsi-network-wireless-signal-none-secure-symbolic.svg
+ icons/symbolic/xsi-network-wireless-signal-good-secure-symbolic.svg
+ icons/symbolic/xsi-network-wireless-signal-excellent-secure-symbolic.svg
+Copyright:
+ Unknown
+License: UNKNOWN
+Comment: Origin and licensing information not yet determined; under investigation. Added from Nemo/Cinnamon.
+
+
+Files: icons/symbolic/*
+Copyright:
+ © GNOME Project
+License: LGPL-3+
+Comment: Derived from the Adwaita Icon Theme; icons may include modifications.
+
+
+Files:
+ debian/*
+ icons/*.py
+ icons/*.in
+Copyright:
+ © xapp-symbolic-icons
+License: LGPL-3+
+
+
+License: LGPL-3+
+ This package is free software; you can redistribute it and/or modify
+ it under the terms of the GNU Lesser General Public License as published
+ by the Free Software Foundation; either version 3 of the License, or
+ (at your option) any later version.
  .
- The complete text of the GNU Lesser General Public License version 3 can be
- found in "/usr/share/common-licenses/LGPL-3".
+ On Debian systems, the complete text of the GNU Lesser General Public
+ License version 3 can be found in
+ /usr/share/common-licenses/LGPL-3.
+
+
+License: MIT
+ Permission is hereby granted, free of charge, to any person obtaining a
+ copy of this software and associated documentation files (the "Software"),
+ to deal in the Software without restriction, including without limitation
+ the rights to use, copy, modify, merge, publish, distribute, sublicense,
+ and/or sell copies of the Software, and to permit persons to whom the
+ Software is furnished to do so, subject to the following conditions:
+ .
+ The above copyright notice and this permission notice shall be included in
+ all copies or substantial portions of the Software.
+ .
+ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+ IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL
+ THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
+ FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER
+ DEALINGS IN THE SOFTWARE.

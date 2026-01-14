@@ -1,13 +1,36 @@
 
-# xapp-symbolic-icons (XSI)
+## xapp-symbolic-icons (XSI)
 
-A set of symbolic icons which replaces the GNOME-specific Adwaita set.
+XSI is a set of symbolic icons.
 
-All provided icons are prefixed with xsi- and places in /usr/share/icons/hicolor.
+It is used by the following projects:
 
-Icon names loosely follow the Adwaita names.
+ - XApp
+ - Cinnamon
+ - Linux Mint
 
-To search/replace Adwaita icon names in your code, run:
+All XSI icons are prefixed with "xsi-" and placed in /usr/share/icons/hicolor.
+
+## Migrating from adwaita-icon-theme
+
+Adwaita-icon-theme only supports GNOME. Adwaita icons can be removed, and have been removed, if they are not used by the GNOME project.
+
+To develop GTK projects which work outside of GNOME (in Cinnamon, Xfce, MATE etc..) a reliable set of symbolic icons was needed. So XSI was started.
+
+The XSI icon names loosely follow the Adwaita names.
+
+To migrate an application which uses adwaita-icon-theme to XSI, run:
 
 `xsi-replace-adwaita-symbolic`
+
+## Licensing
+
+This project contains icons derived from third-party works. The project as a
+whole is distributed under the GNU Lesser General Public License version 3
+(LGPLv3).
+
+Original licenses for third-party materials are available in `LICENSES/`.
+
+Detailed per-file licensing, authorship and attribution are available in
+`debian/copyright`.
 
