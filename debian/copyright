@@ -95,6 +95,12 @@ Source: https://github.com/ubuntu/yaru
 Comment: Derived from the Yaru icon theme; icons may include modifications.
 
 
+Files: icons/symbolic/xsi-user-desktop-symbolic.svg
+Copyright:
+ © xapp-symbolic-icons
+License: LGPL-3
+
+
 Files: icons/symbolic/*
 Copyright:
  © GNOME Project
