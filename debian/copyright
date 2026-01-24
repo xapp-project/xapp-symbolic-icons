@@ -15,7 +15,7 @@ Comment: Derived from the Adwaita Icon Theme; icons may include modifications.
 
 Files: icons/symbolic/xsi-parental-controls-symbolic.svg
 Copyright: GNOME Project <https://www.gnome.org>
-License: CC-BY-SA-4
+License: CC-BY-SA-4.0
 
 Files:
  icons/symbolic/xsi-applications-electronics-symbolic.svg
@@ -85,7 +85,7 @@ Comment: gitlab-svgs. Icons may include modifications. https://www.svgrepo.com/c
 
 
 Files:
- icons/symbolic/xsi-applications-internet.svg
+ icons/symbolic/xsi-applications-internet-symbolic.svg
  icons/symbolic/xsi-empty-icon-symbolic.svg
  icons/symbolic/xsi-group-symbolic.svg
  icons/symbolic/xsi-cpu-symbolic.svg
@@ -101,7 +101,7 @@ Comment: Public domain license. No copyright.
 Files:
  icons/symbolic/xsi-power-profile-balanced-symbolic.svg
  icons/symbolic/xsi-power-profile-performance-symbolic.svg
- icons/symbolic/xsi-power-profile-power-symbolic.svg
+ icons/symbolic/xsi-power-profile-power-saver-symbolic.svg
 Copyright:
  © Yaru Contributors
 License: CC-BY-SA-4.0
