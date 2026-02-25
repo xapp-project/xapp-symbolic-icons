@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   height="16px"
+   viewBox="0 0 16 16"
+   width="16px"
+   version="1.1"
+   id="svg4"
+   sodipodi:docname="xsi-gauge2-symbolic.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs8" />
+  <sodipodi:namedview
+     id="namedview6"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="45.387417"
+     inkscape:cx="10.179033"
+     inkscape:cy="6.3894362"
+     inkscape:window-width="2560"
+     inkscape:window-height="1348"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="SVGRepo_iconCarrier-8" />
+  <g
+     id="SVGRepo_bgCarrier"
+     stroke-width="0"
+     transform="matrix(0.75046059,0,0,0.75046059,1.1841501,-3.4088422)"
+     style="fill:#222222;fill-opacity:1" />
+  <g
+     id="SVGRepo_tracerCarrier"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     transform="matrix(0.75046059,0,0,0.75046059,1.1841501,-3.4088422)"
+     style="fill:#222222;fill-opacity:1" />
+  <g
+     id="SVGRepo_iconCarrier"
+     transform="matrix(0.75046059,0,0,0.75046059,-1.0647759,-1.0009212)"
+     style="fill:#2e3436;fill-opacity:1">
+    <g
+       id="SVGRepo_bgCarrier-5"
+       stroke-width="0"
+       transform="matrix(1.0275365,0,0,1.0275365,13.045351,-12.071888)"
+       style="fill:#2e3436;fill-opacity:1" />
+    <g
+       id="SVGRepo_tracerCarrier-6"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       transform="matrix(1.0275365,0,0,1.0275365,13.045351,-12.071888)"
+       style="fill:#2e3436;fill-opacity:1" />
+    <g
+       id="SVGRepo_bgCarrier-9"
+       stroke-width="0"
+       transform="matrix(1.332515,0,0,1.332515,8.0564233,-9.3044551)" />
+    <g
+       id="SVGRepo_tracerCarrier-1"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       transform="matrix(1.332515,0,0,1.332515,8.0564233,-9.3044551)" />
+    <g
+       id="SVGRepo_bgCarrier-6"
+       stroke-width="0"
+       transform="matrix(1.332515,0,0,1.332515,4.705934,-9.8021165)" />
+    <g
+       id="SVGRepo_tracerCarrier-0"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       transform="matrix(1.332515,0,0,1.332515,4.705934,-9.8021165)" />
+    <g
+       id="SVGRepo_bgCarrier-2"
+       stroke-width="0"
+       transform="matrix(1.332515,0,0,1.332515,5.8035795,-9.6067431)" />
+    <g
+       id="SVGRepo_tracerCarrier-61"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       transform="matrix(1.332515,0,0,1.332515,5.8035795,-9.6067431)" />
+    <g
+       id="SVGRepo_iconCarrier-8"
+       transform="matrix(1.332515,0,0,1.332515,5.8035795,-9.6067431)">
+      <path
+         d="m 6.2082217,21.462198 v -0.95174 a 5.9952139,5.9952139 0 1 0 -2.9976068,0 v 0.95174 h -5.995214 v 2.248205 H 12.203436 V 21.462198 Z M 0.30293594,15.594383 a 4.4214702,4.4214702 0 0 1 0.254797,-2.600424 4.4964104,4.4964104 0 1 1 5.87530926,5.875309 4.4214702,4.4214702 0 0 1 -2.6004243,0.254797 4.4964104,4.4964104 0 0 1 -3.52968196,-3.529682 z M 3.9600169,17.75266 a 1.0566564,1.0566564 0 0 1 -0.374701,-0.786872 c 0.127398,-1.423863 1.1241023,-5.620513 1.1241023,-5.620513 0,0 0.9967043,4.19665 1.1241026,5.620513 A 1.0416684,1.0416684 0 0 1 5.49629,17.75266 v 0 0 a 1.0866325,1.0866325 0 0 1 -1.5362731,0 z M 0.96240994,14.717583 H 1.7118109 v 0.749401 H 0.96240994 Z m 6.74461516,0 h 0.7494018 v 0.749401 H 7.7070251 Z m 0,-1.498803 H 6.9576234 V 12.469378 H 7.7070251 Z M 1.7118109,12.469378 h 0.749402 v 0.749402 h -0.749402 z m 2.248206,-0.749402 h -0.749402 v -0.749401 h 0.749402 z m 2.2482048,0 H 5.45882 v -0.749401 h 0.7494017 z"
+         id="path46316"
+         style="fill:#2e3436;fill-opacity:1;stroke-width:0.749402" />
+    </g>
+  </g>
+</svg>

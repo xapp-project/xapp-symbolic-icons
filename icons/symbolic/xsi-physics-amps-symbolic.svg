@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   height="16px"
+   viewBox="0 0 16 16"
+   width="16px"
+   version="1.1"
+   id="svg4"
+   sodipodi:docname="xsi-electric-amps-symbolic.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs8" />
+  <sodipodi:namedview
+     id="namedview6"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="45.387417"
+     inkscape:cx="10.179033"
+     inkscape:cy="6.3894362"
+     inkscape:window-width="2560"
+     inkscape:window-height="1348"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="SVGRepo_iconCarrier" />
+  <g
+     id="SVGRepo_bgCarrier"
+     stroke-width="0"
+     transform="matrix(0.75046059,0,0,0.75046059,1.1841501,-3.4088422)"
+     style="fill:#222222;fill-opacity:1" />
+  <g
+     id="SVGRepo_tracerCarrier"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     transform="matrix(0.75046059,0,0,0.75046059,1.1841501,-3.4088422)"
+     style="fill:#222222;fill-opacity:1" />
+  <g
+     id="SVGRepo_iconCarrier"
+     transform="matrix(0.75046059,0,0,0.75046059,-1.0647759,-1.0009212)"
+     style="fill:#2e3436;fill-opacity:1">
+    <g
+       id="SVGRepo_bgCarrier-5"
+       stroke-width="0"
+       transform="matrix(1.0275365,0,0,1.0275365,13.045351,-12.071888)"
+       style="fill:#2e3436;fill-opacity:1" />
+    <g
+       id="SVGRepo_tracerCarrier-6"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       transform="matrix(1.0275365,0,0,1.0275365,13.045351,-12.071888)"
+       style="fill:#2e3436;fill-opacity:1" />
+    <g
+       id="SVGRepo_bgCarrier-9"
+       stroke-width="0"
+       transform="matrix(1.332515,0,0,1.332515,8.0564233,-9.3044551)" />
+    <g
+       id="SVGRepo_tracerCarrier-1"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       transform="matrix(1.332515,0,0,1.332515,8.0564233,-9.3044551)" />
+    <g
+       id="SVGRepo_bgCarrier-0"
+       stroke-width="0"
+       transform="matrix(1.0222811,0,0,1.0222811,4.7200961,-7.6038856)" />
+    <g
+       id="SVGRepo_tracerCarrier-9"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       transform="matrix(1.0222811,0,0,1.0222811,4.7200961,-7.6038856)" />
+    <g
+       id="SVGRepo_iconCarrier-3"
+       transform="matrix(1.0222811,0,0,1.0222811,-0.23943508,-0.60468696)"
+       style="fill:#2e3436;fill-opacity:1">
+      <path
+         d="m 15.9999,7.40001 c -0.9,0 -1.7,-0.2 -2.5,-0.5 l -3.9,-1.9 c -1.4,-0.7 -3.7,-0.3 -4.7,0.8 l -1.1,1.2 -1.4,-1.4 1.1,-1.2 c 1.6,-1.8 4.8,-2.4 7,-1.3 l 4,1.9 c 1.4,0.7 3.7,0.3 4.7,-0.8 l 1,-1.2 1.5,1.3 -1.1,1.2 c -1.1,1.2 -2.8,1.9 -4.6,1.9 z m -1.2,14.69999 -0.8,-2.6 h -4 l -0.8,2.6 h -2.5 l 3.9,-11.1 h 2.9 l 3.9,11.1 z m -1.3,-4.6 -1.5,-4.8 -1.4,4.8 z"
+         id="path43219"
+         style="fill:#2e3436;fill-opacity:1" />
+    </g>
+  </g>
+</svg>
