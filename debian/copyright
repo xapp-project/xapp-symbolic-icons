@@ -13,9 +13,20 @@ Copyright: 2002-2025, GNOME Project <https://www.gnome.org>
 License: LGPL-3
 Comment: Derived from the Adwaita Icon Theme; icons may include modifications.
 
+
+Files:
+ icons/symbolic/xsi-image-crop-symbolic.svg
+Copyright:
+ © Papirus Icon Theme
+License: GPL-3
+Source: https://github.com/PapirusDevelopmentTeam/papirus-icon-theme
+Comment: Derived from the Papirus Icon Theme; icons may include modifications.
+
+
 Files: icons/symbolic/xsi-parental-controls-symbolic.svg
 Copyright: GNOME Project <https://www.gnome.org>
 License: CC-BY-SA-4.0
+
 
 Files:
  icons/symbolic/xsi-applications-electronics-symbolic.svg
@@ -132,6 +143,7 @@ Copyright:
 License: CC-BY-SA-4.0
 Source: https://github.com/ubuntu/yaru
 Comment: Derived from the Yaru icon theme; icons may include modifications.
+
 
 License: LGPL-3
  SPDX "LGPL-3.0-only": https://spdx.org/licenses/LGPL-3.0-only.html
@@ -1008,6 +1020,22 @@ License: CC-BY-4.0
  public licenses.
  .
  Creative Commons may be contacted at creativecommons.org.
+
+
+License: GPL-3
+ SPDX "GPL-3.0-only": https://spdx.org/licenses/GPL-3.0-only.html
+ .
+ This program is free software; you can redistribute it and/or modify
+ it under the terms of the GNU General Public License as published by
+ the Free Software Foundation version 3 of the License.
+ .
+ This program is distributed in the hope that it will be useful,
+ but WITHOUT ANY WARRANTY; without even the implied warranty of
+ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+ GNU General Public License for more details.
+ .
+ On Debian systems, the complete text of the GNU General Public
+ License version 3 can be found in /usr/share/common-licenses/GPL-3.
 
 
 License: BSD-3-Clause
