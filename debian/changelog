@@ -1,3 +1,27 @@
+xapp-symbolic-icons (1.1.0) zena; urgency=medium
+
+  [ Clement Lefebvre ]
+  * Add tag
+  * Add launch
+  * Add empty-icon
+  * Update temperature icon
+  * Add xsi-power-symbolic
+  * Add xsi-gauge-symbolic
+  * Add xsi-fan-symbolic
+  * Add gauge2 and electric /pyshics icons
+  * Add licensing info for xsi-image-crop-symbolic.svg
+
+  [ Michael Webster ]
+  * Fix color of xsi-non-starred-symbolic.svg.
+  * Improve style of xsi-media-removable-symbolic, add xsi-drive- removable-media-usb-symbolic as a symlink to it.
+  * icons/meson.build: Don't follow symlinks.
+  * Add xsi-image-crop-symbolic.svg
+
+  [ Fabio Fantoni ]
+  * fix and improve d/copyright (#24)
+
+ -- Clement Lefebvre <root@linuxmint.com>  Wed, 20 May 2026 14:45:36 +0100
+
 xapp-symbolic-icons (1.0.9) zena; urgency=medium
 
   * Add xsi-applications-electronics
