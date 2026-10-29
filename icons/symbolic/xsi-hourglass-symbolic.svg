@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   height="16px"
+   viewBox="0 0 16 16"
+   width="16px"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="xsi-hourglass-symbolic.svg"
+   inkscape:version="1.4.3 (0d15f75042, 2025-12-25)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="25.234873"
+     inkscape:cx="7.7670293"
+     inkscape:cy="11.016501"
+     inkscape:window-width="2560"
+     inkscape:window-height="1348"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" />
+  <g
+     id="SVGRepo_bgCarrier"
+     stroke-width="0"
+     transform="translate(-474.75482,-260.55342)" />
+  <g
+     id="SVGRepo_tracerCarrier"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     transform="translate(-474.75482,-260.55342)" />
+  <path
+     fill-rule="evenodd"
+     d="M 12.8,-4e-8 V 4.3303998 L 9.1311999,7.9999996 12.8,11.668 V 16 H 3.2 V 11.668 L 6.868,7.9999996 3.2,4.3303998 V -4e-8 Z M 8,9.1312 l -3.2,3.2 V 14 L 8,12 11.2,14 V 12.3312 Z M 11.2,1.5999999 H 4.8 v 2.068 L 5.9338653,4.8021487 10.075859,4.7924229 11.2,3.6680013 Z"
+     id="path1-5"
+     style="fill:#2e3436;fill-opacity:1;stroke-width:0.0374999" />
+</svg>
