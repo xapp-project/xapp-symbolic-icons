@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   height="16px"
+   viewBox="0 0 16 16"
+   width="16px"
+   version="1.1"
+   id="svg2625"
+   sodipodi:docname="xsi-tag-symbolic.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs2629" />
+  <sodipodi:namedview
+     id="namedview2627"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="true"
+     inkscape:zoom="32.09375"
+     inkscape:cx="-8.0077897"
+     inkscape:cy="1.962999"
+     inkscape:window-width="2560"
+     inkscape:window-height="1348"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g3169">
+    <inkscape:grid
+       type="xygrid"
+       id="grid2748" />
+  </sodipodi:namedview>
+  <g
+     id="g3169"
+     transform="matrix(0.88738836,0,0,-0.88738836,0.8870695,16)">
+    <g
+       id="g3228"
+       transform="matrix(-0.65619123,0.65619123,0.65619123,0.65619123,7.6138295,-1.8853355)">
+      <path
+         d="M 5,0 C 3.667969,0 2.726562,0.816406 2.355469,1.554688 1.984375,2.292969 2.0001733,3 2.0001733,3 v 12.472369 c -0.00945,0.304711 5.6557767,2.569844 6.0154046,2.558068 0.3970387,0.01166 5.9844351,-2.259057 5.9849781,-2.558068 V 2.996094 c 0,-0.00391 0.01116,-0.707032 -0.356025,-1.441406 C 13.273438,0.816406 12.332031,0 11,0 Z m 0,2 h 6 c 0.695312,0.011719 1.00421,0.367188 1.000304,1 v 11.185446 c 0.0052,0.328136 -3.6711361,1.868447 -3.9847261,1.844739 -0.3116136,0.02643 -4.0350261,-1.51165 -4.015153,-1.844739 V 2.996094 C 3.9926129,2.347656 4.398438,2 5,2 Z"
+         fill="#2e3436"
+         id="path2623"
+         sodipodi:nodetypes="scccccccsssccccccs" />
+      <circle
+         style="font-variation-settings:'wght' 700;fill:#2e3436;fill-opacity:1;stroke-width:0.704;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3.9"
+         id="path2802"
+         cx="8"
+         cy="12.104314"
+         r="1.3050513" />
+    </g>
+  </g>
+</svg>
