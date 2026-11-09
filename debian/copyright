@@ -15,6 +15,13 @@ Comment: Derived from the Adwaita Icon Theme; icons may include modifications.
 
 
 Files:
+ icons/symbolic/xsi-user-desktop-symbolic.svg
+Copyright:
+ © xapp-symbolic-icons
+License: LGPL-3
+
+
+Files:
  icons/symbolic/xsi-image-crop-symbolic.svg
 Copyright:
  © Papirus Icon Theme
